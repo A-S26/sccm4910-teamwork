@@ -17,3 +17,4 @@ if __name__ == "__main__":
     print("Hello from A-S26!")  #this is a greeting from me
                                           #this is a test comment
 
+    #would be better to declare who the greeting is on behalf of
