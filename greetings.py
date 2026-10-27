@@ -14,7 +14,8 @@ if __name__ == "__main__":
     banner()
     # --- ADD YOUR GREETING BELOW THIS LINE ---
     # the line below is a greeting from me (the user)
-    print("Hello from A-S26!")  #this is a greeting from me
+    print("Hello from A-S26, on behalf of SCCM4910 team!")  #this is a greeting from me
                                           #this is a test comment
 
     #would be better to declare who the greeting is on behalf of
+    #added to the print line who the greeting is on behalf of from the username
